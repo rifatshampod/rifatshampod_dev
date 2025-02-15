@@ -32,7 +32,7 @@ I'm [Your Name], a [Your Job Title] based in [Your Location].
 ## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifatshampod&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatshampod&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatshampod&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
 ## Connect with Me
