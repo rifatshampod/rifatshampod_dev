@@ -56,6 +56,11 @@
 
 ---
 
+## Activity
+![Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=rifatshampod&theme=github)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
