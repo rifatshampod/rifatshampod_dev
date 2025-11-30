@@ -9,8 +9,8 @@
     <td>
       <h3 align="center">Tech Stack</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" alt="Languages" />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
+        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust&theme=dark" alt="Languages" /><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="Frameworks" /><br>
         <img src="https://skillicons.dev/icons?i=docker,git,github,figma,linux&theme=dark" alt="Tools" />
       </div>
     </td>
